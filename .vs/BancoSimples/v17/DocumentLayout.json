@@ -43,6 +43,10 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ClientePut.cs",
@@ -69,10 +73,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TokenPost.cs",
@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "Endpoints\\Security\\TokenPost.cs",
               "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Security\\TokenPost.cs",
               "RelativeToolTip": "Endpoints\\Security\\TokenPost.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T13:37:50.391Z",
               "EditorCaption": ""
