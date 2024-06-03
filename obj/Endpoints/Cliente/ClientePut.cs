@@ -11,7 +11,7 @@ namespace BancoSimples.Endpoints.Cliente
         public static string[] Methods => new string[] {HttpMethod.Put.ToString()};
         public static Delegate Handle => Action;
 
-        [Authorize(Policy = "EmployeePolicy")]
+       [Authorize(Policy = "EmployeePolicy")]
         public static IResult Action([FromRoute] Guid id ,ClienteRequest clienteRequest, ApplicationDbContext context)
         {
             var cliente = context.ClientePessoa.Where(c => c.Id == id).FirstOrDefault();

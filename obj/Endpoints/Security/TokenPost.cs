@@ -1,8 +1,4 @@
-﻿using BancoSimples.Infra.Data;
-using BancoSimples.Domain.Conta;
-using Flunt.Notifications;
-using BancoSimples.Endpoints.Employees;
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
 using System.Security.Claims;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
@@ -44,7 +40,7 @@ public class TokenPost
                 new Claim(ClaimTypes.Email, loginRequest.Email),
             }),
             SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature),
-            Audience = "BancoSimples",
+            Audience = "Audience",
             Issuer = "Issuer",
             Expires = DateTime.UtcNow.AddSeconds(30),
 

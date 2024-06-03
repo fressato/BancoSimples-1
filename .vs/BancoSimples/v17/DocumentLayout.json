@@ -3,48 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|c:\\users\\jessicafressato\\source\\repos\\bancosimples\\endpoints\\conta\\contanovapost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|solutionrelative:endpoints\\conta\\contanovapost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|c:\\users\\jessicafressato\\source\\repos\\bancosimples\\domain\\conta\\abrirnovaconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|solutionrelative:domain\\conta\\abrirnovaconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|c:\\users\\jessicafressato\\source\\repos\\bancosimples\\endpoints\\conta\\contanovaput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|solutionrelative:endpoints\\conta\\contanovaput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|c:\\users\\jessicafressato\\source\\repos\\bancosimples\\infra\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|solutionrelative:infra\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|c:\\users\\jessicafressato\\source\\repos\\bancosimples\\domain\\conta\\clientepessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|solutionrelative:domain\\conta\\clientepessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|c:\\users\\jessicafressato\\source\\repos\\bancosimples\\endpoints\\security\\tokenpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|solutionrelative:endpoints\\security\\tokenpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|c:\\users\\jessicafressato\\source\\repos\\bancosimples\\endpoints\\cliente\\clienteput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|solutionrelative:endpoints\\cliente\\clienteput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|c:\\users\\jessicafressato\\source\\repos\\bancosimples\\endpoints\\conta\\contanovarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|solutionrelative:endpoints\\conta\\contanovarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|c:\\users\\jessicafressato\\source\\repos\\bancosimples\\endpoints\\conta\\contanovagetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|solutionrelative:endpoints\\conta\\contanovagetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|c:\\users\\jessicafressato\\source\\repos\\bancosimples\\endpoints\\security\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|solutionrelative:endpoints\\security\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|c:\\users\\jessicafressato\\source\\repos\\bancosimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|c:\\users\\jessicafressato\\source\\repos\\bancosimples\\domain\\conta\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|solutionrelative:domain\\conta\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|c:\\users\\jessicafressato\\source\\repos\\bancosimples\\endpoints\\cliente\\clienteput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD08C8E-DBFC-4642-842F-856826BB850F}|BancoSimples.csproj|solutionrelative:endpoints\\cliente\\clienteput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,148 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFEAAABRAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T13:00:11.225Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TokenPost.cs",
-              "DocumentMoniker": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Security\\TokenPost.cs",
-              "RelativeDocumentMoniker": "Endpoints\\Security\\TokenPost.cs",
-              "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Security\\TokenPost.cs",
-              "RelativeToolTip": "Endpoints\\Security\\TokenPost.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA3wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:37:50.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AbrirNovaConta.cs",
-              "DocumentMoniker": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Domain\\Conta\\AbrirNovaConta.cs",
-              "RelativeDocumentMoniker": "Domain\\Conta\\AbrirNovaConta.cs",
-              "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Domain\\Conta\\AbrirNovaConta.cs",
-              "RelativeToolTip": "Domain\\Conta\\AbrirNovaConta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:15:36.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClientePessoa.cs",
-              "DocumentMoniker": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Domain\\Conta\\ClientePessoa.cs",
-              "RelativeDocumentMoniker": "Domain\\Conta\\ClientePessoa.cs",
-              "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Domain\\Conta\\ClientePessoa.cs",
-              "RelativeToolTip": "Domain\\Conta\\ClientePessoa.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAqwCsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:12:19.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClientePut.cs",
-              "DocumentMoniker": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Cliente\\ClientePut.cs",
-              "RelativeDocumentMoniker": "Endpoints\\Cliente\\ClientePut.cs",
-              "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Cliente\\ClientePut.cs",
-              "RelativeToolTip": "Endpoints\\Cliente\\ClientePut.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAIA3wBwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:10:44.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContaNovaPut.cs",
-              "DocumentMoniker": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Conta\\ContaNovaPut.cs",
-              "RelativeDocumentMoniker": "Endpoints\\Conta\\ContaNovaPut.cs",
-              "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Conta\\ContaNovaPut.cs",
-              "RelativeToolTip": "Endpoints\\Conta\\ContaNovaPut.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:01:51.032Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Infra\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Infra\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Infra\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Infra\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAUwCAAAAAbAAAA",
+              "Title": "ClientePut.cs",
+              "DocumentMoniker": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Cliente\\ClientePut.cs",
+              "RelativeDocumentMoniker": "Endpoints\\Cliente\\ClientePut.cs",
+              "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Cliente\\ClientePut.cs",
+              "RelativeToolTip": "Endpoints\\Cliente\\ClientePut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T12:49:58.88Z",
+              "WhenOpened": "2024-05-31T18:46:44.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ContaNovaGetAll.cs",
-              "DocumentMoniker": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Conta\\ContaNovaGetAll.cs",
-              "RelativeDocumentMoniker": "Endpoints\\Conta\\ContaNovaGetAll.cs",
-              "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Conta\\ContaNovaGetAll.cs",
-              "RelativeToolTip": "Endpoints\\Conta\\ContaNovaGetAll.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "DocumentIndex": 1,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Security\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Endpoints\\Security\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Security\\LoginRequest.cs",
+              "RelativeToolTip": "Endpoints\\Security\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T19:40:09.128Z",
+              "WhenOpened": "2024-05-31T12:21:12.145Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ContaNovaRequest.cs",
-              "DocumentMoniker": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Conta\\ContaNovaRequest.cs",
-              "RelativeDocumentMoniker": "Endpoints\\Conta\\ContaNovaRequest.cs",
-              "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Conta\\ContaNovaRequest.cs",
-              "RelativeToolTip": "Endpoints\\Conta\\ContaNovaRequest.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAzwAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T19:17:37.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Domain\\Conta\\Entity.cs",
-              "RelativeDocumentMoniker": "Domain\\Conta\\Entity.cs",
-              "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Domain\\Conta\\Entity.cs",
-              "RelativeToolTip": "Domain\\Conta\\Entity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T19:17:58.874Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContaNovaPost.cs",
-              "DocumentMoniker": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Conta\\ContaNovaPost.cs",
-              "RelativeDocumentMoniker": "Endpoints\\Conta\\ContaNovaPost.cs",
-              "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Conta\\ContaNovaPost.cs",
-              "RelativeToolTip": "Endpoints\\Conta\\ContaNovaPost.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA3wBkAAAAZAAAA",
+              "Title": "TokenPost.cs",
+              "DocumentMoniker": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Security\\TokenPost.cs",
+              "RelativeDocumentMoniker": "Endpoints\\Security\\TokenPost.cs",
+              "ToolTip": "C:\\Users\\JessicaFressato\\source\\repos\\BancoSimples\\Endpoints\\Security\\TokenPost.cs",
+              "RelativeToolTip": "Endpoints\\Security\\TokenPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T19:00:15.123Z",
+              "WhenOpened": "2024-05-28T13:37:50.391Z",
               "EditorCaption": ""
             }
           ]

@@ -11,8 +11,7 @@ namespace BancoSimples.Endpoints.Cliente
         public static string Template => "/cliente";
         public static string[] Methods => new string[] {HttpMethod.Post.ToString()};
         public static Delegate Handle => Action;
-
-        [Authorize(Policy = "EmployeePolicy")]
+               
         public static IResult Action(ClienteRequest clienteRequest, HttpContext http, ApplicationDbContext context)
         {
             var userId = http.User.Claims.First(c => c.Type == ClaimTypes.NameIdentifier);

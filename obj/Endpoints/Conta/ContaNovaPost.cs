@@ -12,7 +12,7 @@ namespace BancoSimples.Endpoints.ContaNova
         public static string[] Methods => new string[] { HttpMethod.Post.ToString() };
         public static Delegate Handle => Action;
 
-        [Authorize(Policy = "EmployeePolicy")]
+        
         public static IResult Action(ContaNovaRequest contaNovaRequest, HttpContext http, ApplicationDbContext context)
         {
             var userId = http.User.Claims.First(c => c.Type == ClaimTypes.NameIdentifier);

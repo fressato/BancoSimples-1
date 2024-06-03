@@ -169,3 +169,4 @@ C:\Users\JessicaFressato\source\repos\BancoSimples\bin\Debug\net8.0\Microsoft.Id
 C:\Users\JessicaFressato\source\repos\BancoSimples\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
 C:\Users\JessicaFressato\source\repos\BancoSimples\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
 C:\Users\JessicaFressato\source\repos\BancoSimples\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\JessicaFressato\source\repos\BancoSimples\obj\Debug\net8.0\BancoSimples.sourcelink.json
